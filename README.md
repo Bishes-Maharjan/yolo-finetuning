@@ -91,9 +91,9 @@ The dataset consists of images with bounding box annotations around human faces,
 
 **Important Files**:
 
-- `best.pt`: Trained model weights ([location](here))
+- `best.pt`: Trained model weights ([location](results/face-detection/weights/best.pt))
 - Training metrics and evaluation results in `face-detection/`, `val3/`, `val4/`
-- Prediction outputs in `predicted_results/` folder ([here](Here))
+- Prediction outputs in `predicted_results/` folder ([here](/results/predict/))
 
 ## 🚀 Usage
 
